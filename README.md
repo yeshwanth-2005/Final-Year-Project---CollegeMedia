@@ -119,6 +119,4 @@ You can deploy this project using various platforms:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-
-- Built with [Lovable](https://lovable.dev)
 - Uses various open-source libraries and frameworks
