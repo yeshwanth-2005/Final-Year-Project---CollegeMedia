@@ -93,30 +93,3 @@ npm run dev
 ```
 
 Both servers need to be running simultaneously for the application to work properly.
-
-## Deployment
-
-You can deploy this project using various platforms:
-
-### Using Lovable
-1. Visit the [Lovable Project](https://lovable.dev/projects/da145ac9-e70e-4a78-9796-1751f6fc752d)
-2. Click on Share -> Publish
-
-### Manual Deployment
-- Deploy the backend to a Node.js hosting service (e.g., Heroku, Render, Vercel)
-- Deploy the frontend to a static hosting service (e.g., Vercel, Netlify)
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Uses various open-source libraries and frameworks
